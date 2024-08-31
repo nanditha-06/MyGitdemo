@@ -1,3 +1,3 @@
 # MyGitdemo
 My first git repo
-Nanditha
+Nanditha(Student)
